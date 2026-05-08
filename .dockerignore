@@ -1,0 +1,17 @@
+**/.vs/
+**/.vscode/
+**/bin/
+**/obj/
+**/out/
+.git/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.dockerignore
+Dockerfile*
+docker-compose*
+*.md
+README*
+LICENSE
+.github/
